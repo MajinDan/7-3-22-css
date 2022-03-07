@@ -1,0 +1,19 @@
+ul {
+    border: solid black;
+    padding-right: 4000px;
+    padding-left: 500px;
+    background-color: crimson;
+}
+a {
+    text-decoration: none;
+}
+li {
+    display: inline;
+    color:black;
+}
+img {
+    margin-left: 400px;
+}
+h1 {
+    margin-left: 400px;
+}
