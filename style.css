@@ -1,19 +1,23 @@
 ul {
     border: solid black;
-    padding-right: 4000px;
-    padding-left: 500px;
     background-color: crimson;
-}
-a {
-    text-decoration: none;
+    
+    padding-left: 500px;
+
 }
 li {
     display: inline;
-    color:black;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 img {
-    margin-left: 400px;
+    padding-left: 500px;
 }
 h1 {
-    margin-left: 400px;
+
+    padding-left: 500px;
+
 }
