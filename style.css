@@ -2,22 +2,31 @@ ul {
     border: solid black;
     background-color: crimson;
     
-    padding-left: 500px;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    padding-left: 400px;
+    font-size: 25px;
 
 }
 li {
     display: inline;
     text-decoration: none;
+    padding-left: 50px;
 }
 a {
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
 img {
-    padding-left: 500px;
+    padding-left: 580px;
 }
 h1 {
+    font-size:50px;
+    padding-left: 600px;
 
-    padding-left: 500px;
-
+}
+h2 {
+    font-size: 40px;
 }
